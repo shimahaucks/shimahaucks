@@ -1,3 +1,8 @@
+<img  alt="shimahaucks"  src="https://github-readme-stats.vercel.app/api?username=shimahaucks&show_icons=true&line_height=30&icon_color=1374EF&title_color=FFF&text_color=696969&theme=onedark"  />
+<img  alt="shimahaucks"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimahaucks&show_icons=true&line_height=30&icon_color=1374EF&title_color=FFF&text_color=696969&theme=onedark"  />
+
+<hr />
+
 <a  href="https://twitter.com/shimahaucks">
 
 <img align="left"  alt="ShimaHaucks | Twitter"  width="21px"  src="https://raw.githubusercontent.com/shimahaucks/shimahaucks/master/assets/twitter.svg"  />
@@ -35,6 +40,3 @@
 <a target="_blank" href="https://www.typescriptlang.org/">
     <img alt="typescript" width="30em" height="30em"src="https://github.com/shimahaucks/shimahaucks/raw/master/assets/typescript.svg">
 </a>
-
-<img  alt="shimahaucks"  src="https://github-readme-stats.vercel.app/api?username=shimahaucks&show_icons=true&line_height=30&icon_color=1374EF&title_color=FFF&text_color=696969&theme=onedark"  />
-<img  alt="shimahaucks"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimahaucks&show_icons=true&line_height=30&icon_color=1374EF&title_color=FFF&text_color=696969&theme=onedark"  />
