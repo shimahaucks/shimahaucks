@@ -18,7 +18,7 @@
 
 - 🎯 My focus is JavaScript and NodeJS, but I always try to learn something new.
 
-#### Technologies I use the most
+#### Technologies
 
 <a  target="_blank"  href="https://developer.mozilla.org/en-US/docs/Web/javascript">
 
